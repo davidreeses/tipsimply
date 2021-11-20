@@ -1,0 +1,16 @@
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: left;
+}
+
+h2 {
+    text-align: justify;
+}
+.navbar {
+    background-color: rgb(28, 79, 138);
+    
+}
