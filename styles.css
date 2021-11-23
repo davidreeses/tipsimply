@@ -85,3 +85,38 @@ h2 {
     bottom:0;
     left:0;
    }
+   .container {
+    padding: 2rem 0rem;
+  }
+
+
+      
+      .modal-content {
+        padding: 1rem;
+        background-color: rgb(122, 122, 122);
+        color: #cfcfcf;
+      }
+    .modal-header {
+      margin-top: -1.5rem;
+    }
+    .form-title {
+    margin: -2rem 0rem 2rem;
+    }
+  
+  .btn-round {
+    border-radius: 3rem;
+    background-color: #333;
+    }
+  
+  .delimiter {
+    padding: 1rem;  
+  }
+  
+  .social-buttons {
+      margin: 0 0.5rem 1rem;
+    }
+  
+  
+  .signup-section {
+    padding: 0.3rem 0rem;
+  }
