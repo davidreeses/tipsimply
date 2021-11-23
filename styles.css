@@ -79,8 +79,9 @@ h2 {
   ul {
     list-style: none;
    }
-   footer {
-       background-color: #333;
-       color: rgb(201, 200, 200);
-       position:fixed;bottom:0;left:0;right:0;height:30px;
+   
+   footer{
+    position:relative;
+    bottom:0;
+    left:0;
    }
